@@ -1,0 +1,1 @@
+{"name":"fallen-crown-live","version":"1.0.0","private":true,"description":"Live room and secret role generator for The Fallen Crown","scripts":{"start":"node server.js"},"engines":{"node":">=18"}}
